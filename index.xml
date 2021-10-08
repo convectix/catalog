@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='index.xsl'?>
+<catalog>
+    <template id="memcached">
+        <icon src="https://marketplace.bsdstore.ru/logo/memcached.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/memcached/memcached.img"/>
+        <title>memcached</title>
+        <description>High-performance distributed memory object cache system</description>
+        <params>H_TCP_PORT H_UDP_PORT H_MAX_CONNECTIONS H_UNIX_SOCKET H_PROCESSORCOUNT H_USE_SASL</params>
+    </template>
+    <template id="consul">
+        <icon src="https://marketplace.bsdstore.ru/logo/consul.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/consul/consul.img"/>
+        <title>consul</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="openldap">
+        <icon src="https://marketplace.bsdstore.ru/logo/openldap.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/openldap/openldap.img"/>
+        <title>openldap</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="php">
+        <icon src="https://marketplace.bsdstore.ru/logo/php.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/php/php.img"/>
+        <title>php</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="postgresql">
+        <icon src="https://marketplace.bsdstore.ru/logo/postgresql.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/postgresql/postgresql.img"/>
+        <title>postgres</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="redis">
+        <icon src="https://marketplace.bsdstore.ru/logo/redis.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/redis/redis.img"/>
+        <title>redis</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="redmine">
+        <icon src="https://marketplace.bsdstore.ru/logo/redmine.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/redmine/redmine.img"/>
+        <title>redmine</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="rtorrent">
+        <icon src="https://marketplace.bsdstore.ru/logo/rtorrent.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/rtorrent/rtorrent.img"/>
+        <title>rtorrent</title>
+        <description>wip</description>
+        <params/>
+    </template>
+    <template id="wordpress">
+        <icon src="https://marketplace.bsdstore.ru/logo/wordpress.png"/>
+        <repo src="https://dl.bsdstore.ru/img/amd64/amd64/13.0/wordpress/wordpress.img"/>
+        <title>wordpress</title>
+        <description>wip</description>
+        <params/>
+    </template>
+</catalog>
