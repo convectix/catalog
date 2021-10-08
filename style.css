@@ -1,5 +1,9 @@
 .template {
-	background: gray;
+	border: 2px solid gray;
 	padding: 10px;
 	margin: 20px;
+}
+
+.template img {
+	width: 100px;
 }

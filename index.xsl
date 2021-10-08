@@ -17,6 +17,11 @@
 <xsl:template match="/catalog/template">
 	<div class="template">
 		<h2><xsl:value-of select="title"/></h2>
+		<img>
+		    <xsl:attribute name="src">
+        		<xsl:value-of select="icon/@src"/>
+   			</xsl:attribute>
+		</img>
 		<xsl:value-of select="description"/>
 	</div>
 </xsl:template>
